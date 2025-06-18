@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajput2702
+- 👋 Hi, I’m akshat sudarshanam 
 - 👀 I’m interested towards coding world
 - 🌱 I’m currently learning ..web development.
 - 💞️ I’m looking to collaborate on ...
